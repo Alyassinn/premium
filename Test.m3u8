@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1,Beinsport1HD
+#EXTVLCOPT:http-referrer=http://qanat.tv/
+http://157.90.246.77/upload/images/logo01.m3u8
