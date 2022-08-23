@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://95.170.215.111/lbengine/Bein-Sp2-LB+ph/cache/Bein-Sp1-LB/master.m3u8
