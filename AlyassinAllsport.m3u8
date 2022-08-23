@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://95.170.215.111/lbengine/All-Sport-LB+ph/cache/All-Sport-LB/master.m3u8
